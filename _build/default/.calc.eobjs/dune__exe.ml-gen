@@ -1,0 +1,18 @@
+(** @canonical Dune__exe.Calc *)
+module Calc = Dune__exe__Calc
+
+
+(** @canonical Dune__exe.Lexer *)
+module Lexer = Dune__exe__Lexer
+
+
+(** @canonical Dune__exe.Parser *)
+module Parser = Dune__exe__Parser
+
+
+(** @canonical Dune__exe.ParserMessages *)
+module ParserMessages = Dune__exe__ParserMessages
+
+
+(** @canonical Dune__exe.UnitActionsParser *)
+module UnitActionsParser = Dune__exe__UnitActionsParser
