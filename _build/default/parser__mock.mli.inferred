@@ -1,5 +1,0 @@
-type token = TIMES | RPAREN | PLUS | MINUS | LPAREN | INT of int | EOF | DIV
-val menhir_begin_marker : int
-val xv_main : int
-val xv_expr : int
-val menhir_end_marker : int

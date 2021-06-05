@@ -1,5 +1,0 @@
-type token = Parser.token
-val menhir_begin_marker : int
-val xv_main : unit
-val xv_expr : unit
-val menhir_end_marker : int
