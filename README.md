@@ -1,4 +1,4 @@
-### Genrating *decent* error messages for the LR parser generator, Menhir
+### Generating *decent* error messages for the LR parser generator, Menhir
 
 Generating error messages from LR parsers generators are quite tricky. 
 
